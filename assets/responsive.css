@@ -1,0 +1,194 @@
+/* responsive for medium screen */
+
+@media all and (min-width: 768px) and (max-width: 991px) {
+    .navbar-toggler {
+        border: 1px solid #FFFFFF4B;
+        border-radius: 2px;
+        margin-left: 447px;
+        padding-top: 10px;
+    }
+    span.navbar-toggler-icon  {
+        color: #D8D8D8;
+    }
+    .banner-details {
+        padding-bottom: 30px;
+    }
+    
+    /* services section */
+    .service-boxes {
+        padding-left: 66px;
+    }
+
+    /* portfolio section */
+    .explore-btn {
+        margin: 0px 0 48px -211px;
+    }
+    .portfolio-works {
+        margin-left: 36px;
+    }
+
+    /* professions details */
+    .person-details {
+        margin-left: 89px;
+    }
+    .person-details {
+        margin-right: 200px;
+    }
+    .professional-experiences {
+        margin-top: -106px;
+        margin-left: -42px;
+    }
+    .project-box {
+        border: 1px solid #F3D1BF;
+        margin: -112px -1px 120px 135px;
+    }
+
+    /* Feature section */ 
+    .feature-img img {
+        padding: 90px 0px 0 0;
+    }
+    /* Get started section */
+    .started-img {
+        margin: 12px 0 12px 35px;
+    }
+
+    /* Testimonial section */ 
+    .testimonial-titles h2 {
+        padding: 2px 117px 35px 125px;
+    }
+
+    /* Frequently asked questions section */
+    .brand-logo .row .col-md-6 {
+        padding: 12px 0 10px 82px;
+    }
+    .brand-logo .row .col-md-12 {
+        padding: 16px 0 98px 256px;
+    }
+
+    /* blog section */
+    .more-blog {
+        padding: 30px 0 0 0;
+    }
+
+    /* Footer section */
+    .footer-title h4 {
+        text-align: center;
+        padding: 80px 0 0  0;
+    }
+    .footer-menu h5, .footer-service h5 {
+        margin-top: 51px;
+        text-align: center;
+    }
+    .footer-menu li, .footer-service li {
+        text-align: center;
+    }
+    .social-icon {
+        margin: 52px 0 0 0;
+        text-align: center;
+    }
+    .copy-right p {
+        margin: 43px 0 0 0;
+        text-align: center;
+    }
+    .privacy-policy {
+        margin: 0 0 0 -70px;
+    }
+}
+
+/* For small device */
+
+@media all and (min-width: 576px) and (max-width: 767px){
+    button.navbar-toggler {
+        margin: 0 0 0 268px;
+        border: 1px solid #FFFFFF4B;
+        border-radius: 2px;
+        padding-top: 10px;
+    }
+    span.navbar-toggler-icon  {
+        color: #D8D8D8;
+    }
+    .banner-details {
+        margin: -114px 0 0 0;
+    }
+    .banner-details p {
+        margin-bottom: 50px;
+    }
+    .banner-img {
+        margin-top: 50px;
+    }
+    .explore-btn a {
+        margin: 30px 0 0 33px;
+    }
+    .portfolio-works {
+        margin: 48px 0 0 31px;
+    }
+    .person-details {
+        margin: 0;
+    }
+    .experience-box {
+        margin: 96px 0 0 0;
+    }
+    .project-box {
+        border: 1px solid #F3D1BF;
+        margin: 0 0px 113px 0;
+    }
+    .feature-img img {
+        padding: 0;
+    }
+    .started-img {
+        margin: 0 0 0 38px;
+    }
+    .testimonial-titles h2 {
+        padding: 20px 22px 64px 22px;
+    }
+    .questions-cart i, .dropdown i {
+        margin-left: 35px;
+    }
+    .dropdown-1 i {
+        margin-left: 50px;
+    }
+    .dropdown-2 i {
+        margin-left: 191px;
+    }
+    .dropdown-3 i {
+        margin-left: 75px;
+    }
+    .brand-logo .row .col-sm-6 {
+        padding: 12px 0 10px 82px;
+    }
+    .brand-logo .row .col-sm-12 {
+        padding: 16px 0 98px 220px;
+    }
+    .more-blog {
+        padding: 35px 0 0 0;
+    }
+    .contact-input input {
+        width: 451px;
+    }
+    .contact-input a {
+        margin-left: 335px;
+    }
+    .footer-title h4 {
+        text-align: center;
+        margin-top: 89px;
+        padding: 0;
+    }
+    .footer-menu h5, .footer-service h5 {
+        text-align: center;
+    }
+    .footer-menu li, .footer-service li {
+        text-align: center;
+    }
+    .social-icon {
+        margin: 96px 0 0 0;
+        text-align: center;
+    }
+    .copy-right p {
+        text-align: center;
+        margin: 43px 0 0 0;
+    }
+    .privacy-policy p {
+        padding-left: 110px;
+        margin: 43px 0 54px 0;
+    }
+}
